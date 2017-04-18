@@ -1,8 +1,8 @@
 title: by Vidi
 description: 
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-leap-day
-
+repository: vidi42/vidi42.github.io
 gems:
   - jekyll-mentions

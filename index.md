@@ -1,14 +1,9 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+# 2017
+## Bike ride
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+In Somesul Rece lasam masina si ne urcam pe biciclete.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+Pana in Maguri Racatau mergem pe sosea.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://lh3.googleusercontent.com/Vka_7WBcd28BYl6DvAjY_a4gYnMggyluiokStm1x-_jrXrCvU4IVM5w5Izzl1Ee42FTOZg22KKEakDrE3V5VRJ1uIdQBP59XsazK32Wj5Do1dml45TGSTWpoYHeSTeFN_9BVRh44SpmHTCSTgpfnkagDhjuOWEzmXXEptFwug9NNdD_RTo_gk-dDa-0CrSZx1WhmeluNLqy70b-HcHC2PzW9JR-_6RiWYFRBdtDEtX4azCUjiaxZmfQgoASyI_4DKCsx3uFR3VDcyNH0MA-_VTZaK-LEL_eViFDmLg84LqLVoY7FkbKsYIICVwzoyVyu8bppQLjL3N1zOZNNwnRsFhxWYBc2Y4UchuQlWWDmc1FV5oQPQ8vXLcDy6Jv6otnr3Zhl3EkLDJm_Ft_oRBKZkqm7b0mKAsYqaxNZr87CLCevGgDHqo1KOgmcPW2aKZxAmUXn0P2nXK-cAYdU2qx5GTMOVK8habbTTEvz93_hvZXv0Y8LhfWgWaa6xLpvbGKDbHU2IWSnK4fgCtM7FVI5PcODUPal7zD2h7V4SyEz3owdzyBdRpxTNv08XysGIndbeHutgKZ1QuNN33ShN6iLHnzzdCu03gU0yKPNAcPVls-W0-dZitzrgWy4BnEmiTMnsXRC2LrTKaUz9fUjl2Uvj2guDeE5qnWJ--YVx30TqTI=w1175-h882-no)
+![](https://lh3.googleusercontent.com/1LTBK53mSgKpNKxJZiEg54gWCTr0gRGRS4xOHApJt3bn8dvEDnFM578Cthd-BMTlswDAPCNdIVEAyLqT5KBKUHJFMFjrhkI7fmW4vnAGP_JicpJgkXVSUNRYFMzbIEkXJ_5ozmiHM1g08Msp4eegNHCTgmDVLPBzQrcVuYrZBkDwRtxd-qfi4aGvY8XE3x5NB63FxqT9_PWQS6y_bNfIJeHU1CWhnyppZvxntnbxkbHy5Bk-oSCyEtsYbIsY9_elRwHjeLQpnGQnOboNgCxkoETXGSP_oO4NPJvN92M2HhPBP8QeOm7M5wiSJk7SBf69bE_niT9UMrV2GlEBgqLMW4eaC6wmlb4GsOpSH4laFATsWZNQLdv4_YhKAzoMYmfmeNBVjNls2mcxuBzh7WSqnqOEcu34VjWHlucnOoEuLnNvZX70J5MBbIllZCk-GEsFH32J3Fw6BGVvKsBU1r2jptukv1Qmr05DzalWtavJZhD0HzGDa8qQ1f4U05yB5_w2IuycPvmxCfl-YWNaGlJ2gyjHr87FHRRO-JAQlIF6N3TTR0hQtThaic6QVhANhdNTOKl7NBdKWnoCCNxwzoIM_EN_DXop4fRBhHu9oOed6zx45qxFk-a6rqnA-cPSwHtaxqERdLgvevCdFjHnfoONYBCrkvFz2Ze4ekEtsHrsSH8=w1175-h882-no)

@@ -6,3 +6,4 @@ theme: jekyll-theme-leap-day
 repository: vidi42/vidi42.github.io
 gems:
   - jekyll-mentions
+  - jemoji

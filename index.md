@@ -18,7 +18,7 @@ Cativa zeci de metri de altitudine mai tarziu ajungem in varf, in _Ijar_, pe un 
 
 Dupa ce ciugulim ceva si ne luam manusile pe maini, pornim la vale. Coborarea o facem nici in jumatate din tot timpul care l-am petrecut pe urcare, iar dupa o pana si o tranta ajungem la sosea, mai exact in _Somesul Cald_.
 
-O tura excelenta pentru a doua zi de Pasti, iar ca sa o recomand, mai jos sunt cateva poze care le-am tras pe traseu.
+O tura excelenta pentru a doua zi de Pasti, iar ca sa o recomand, mai jos sunt cateva poze pe care le-am tras pe traseu.
 
 ![](images/stunning_bike_ride/20170417/IMG_20170417_142330.jpg)
 ![](images/stunning_bike_ride/20170417/IMG_20170417_142204.jpg)

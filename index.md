@@ -38,4 +38,5 @@ Salut. Eu sunt Alex
 ...
 
 Deoarece astazi, 2017, orice - si nu exagerez - lanseaza o functionalitate de Stories (Povesti), m-am decis sa lansez si eu acest spatiu pe net, unde sa pot imparatasi mici povestioare, personale, prin intermediul pozelor si al monologului.
+
 Un fel de Portofoliu .. cred. Dar de ce nu?

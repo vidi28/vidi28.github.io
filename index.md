@@ -30,7 +30,7 @@ O tura excelenta pentru a doua zi de Pasti, iar ca sa o recomand, mai jos sunt c
 ![](images/stunning_bike_ride/20170417/DSC01362.JPG)
 ![](images/stunning_bike_ride/20170417/DSC01370.JPG)
 
-# Cuvant de inceput
+## Cuvant de inceput
 ##### Desi e la final
 
 Salut. Eu sunt Alex

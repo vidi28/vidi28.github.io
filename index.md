@@ -12,7 +12,7 @@ Pana in _Maguri Racatau_ toate bune si frumoase. Mergem pe sosea pe un drum lini
 
 Ei bine, partea serioasa incepe abia dupa ce intram in _Maguri Racatau_ si facem dreapta de pe sosea, pe .. un altfel de drum. Un drum care poate parea destul de coplesitor la prima vedere.
 
-Intr-adevar avea sa ne astepte o urcare solicitanta si chiar mai lunga decat am sperat eu. Cu toate astea, fiecare metru de altitudine castigat ne rasplatea defacand in fata noastra, tot mai mult, o vale si peisaje absolut impresionante.
+Intr-adevar avea sa ne astepte o urcare solicitanta si chiar mai lunga decat am sperat eu. Cu toate astea, fiecare metru de altitudine castigat ne rasplatea desfacand in fata noastra, tot mai mult, o vale si peisaje absolut impresionante.
 
 Cativa zeci de metri de altitudine mai tarziu ajungem in varf, in _Ijar_, pe un platou fara copaci si cu un teren de fotbal.
 

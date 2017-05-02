@@ -9,4 +9,33 @@ header {
 
 #banner {
     top: 87px;
+
+    .social {
+      position: absolute;
+      height: 36px;
+      width: 36px;
+      top: 7px;
+      display: block;
+      opacity: 0.15;
+
+      &.git {
+        background: url(../images/git-logo.png);
+        right: 7px;
+      }
+
+      &.instagram {
+        background: url(../images/instagram-logo.png);
+        right: 48px;
+      }
+
+      &.twitter {
+        background: url(../images/twitter-logo.png);
+        right: 89px;
+      }
+
+      &.px500 {
+        background: url(../images/500px-logo.png);
+        right: 130px;
+      }
+    }
 }

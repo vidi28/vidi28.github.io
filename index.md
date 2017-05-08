@@ -2,7 +2,7 @@
 ## Stunning Bike ride
 #### 17.04.2017
 
-:checkered_flag: **Somesul Rece** :arrow_right: **Maguri Racatau** :arrow_right: **Marisel** :arrow_right: **Ijar** :arrow_right: **Somesul Cald** :arrow_right: **Somesul Rece**
+<p class="article route">:checkered_flag: Somesul Rece :arrow_right: Maguri Racatau :arrow_right: Marisel :arrow_right: Ijar :arrow_right: Somesul Cald :arrow_right: Somesul Rece</p>
 
 Una din primele ture serioase pe doua roti, de anul acesta, dar si una din cele mai solicitante de pana acum. Ever. _(disclaimer: nu sunt nici pe departe un biciclist performant)._
 

@@ -18,24 +18,38 @@ header {
       display: block;
       opacity: 0.15;
 
+      &:hover {
+        opacity: 0.3;
+      }
+
       &.git {
         background: url(../images/git-logo.png);
-        right: 7px;
+        right: 8px;
       }
 
       &.instagram {
         background: url(../images/instagram-logo.png);
-        right: 48px;
+        right: 50px;
       }
 
       &.twitter {
         background: url(../images/twitter-logo.png);
-        right: 89px;
+        right: 92px;
       }
 
       &.px500 {
         background: url(../images/500px-logo.png);
-        right: 130px;
+        right: 134px;
       }
     }
+}
+
+section {
+  h2 {
+    font-weight: normal;
+  }
+
+  p.article.route {
+    color: #444;
+  }
 }

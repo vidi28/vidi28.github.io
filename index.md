@@ -29,20 +29,20 @@ Cat despre Narcise, ce sa va spun ... nu le-am vazut niciodata pana acum. Pentru
 
 Pana la anul, va las traseul de pe [Strava](https://www.strava.com/activities/984523732) si niste poze din tura
 
-![](images/negrileasa/20170513/0IMG_20170513_074637.jpg)
-![](images/negrileasa/20170513/DSC01425.jpg)
-![](images/negrileasa/20170513/DSC01444.jpg)
-![](images/negrileasa/20170513/DSC01447.jpg)
-![](images/negrileasa/20170513/DSC01448.jpg)
-![](images/negrileasa/20170513/DSC01457.jpg)
-![](images/negrileasa/20170513/DSC01462.jpg)
-![](images/negrileasa/20170513/DSC01467.jpg)
-![](images/negrileasa/20170513/DSC01477.jpg)
-![](images/negrileasa/20170513/DSC01488.jpg)
-![](images/negrileasa/20170513/DSC01501.jpg)
-![](images/negrileasa/20170513/DSC01514.jpg)
-![](images/negrileasa/20170513/DSC01518.jpg)
-![](images/negrileasa/20170513/DSC01547.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984188/alexv/negrileasa/20170513/0IMG_20170513_074637_fqwkdo.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984202/alexv/negrileasa/20170513/DSC01425_qt9gnl.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984205/alexv/negrileasa/20170513/DSC01444_0_85x_jlh9cn.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984210/alexv/negrileasa/20170513/DSC01447_i51jz6.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984220/alexv/negrileasa/20170513/DSC01448_0_85x_lcxoc2.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984233/alexv/negrileasa/20170513/DSC01457_0_85x_xc3l9g.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984216/alexv/negrileasa/20170513/DSC01462_uanjwg.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984215/alexv/negrileasa/20170513/DSC01467_0_85x_ptdewk.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984190/alexv/negrileasa/20170513/DSC01477_0_85x_ogrwwm.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984177/alexv/negrileasa/20170513/DSC01488_0_85x_w3olbx.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984203/alexv/negrileasa/20170513/DSC01501_peqldz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984214/alexv/negrileasa/20170513/DSC01514_vkx9yz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984197/alexv/negrileasa/20170513/DSC01518_0_85x_kus18s.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495984196/alexv/negrileasa/20170513/DSC01547_0_85x_c48gvx.jpg)
 
 ## Stunning Bike ride
 #### 17.04.2017
@@ -65,15 +65,15 @@ Dupa ce ciugulim ceva si ne luam manusile pe maini, pornim la vale. Coborarea o 
 
 O tura excelenta pentru a doua zi de Pasti, iar ca sa o recomand, mai jos sunt cateva poze pe care le-am tras pe traseu.
 
-![](images/stunning_bike_ride/20170417/IMG_20170417_142330.jpg)
-![](images/stunning_bike_ride/20170417/IMG_20170417_142204.jpg)
-![](images/stunning_bike_ride/20170417/DSC01347.JPG)
-![](images/stunning_bike_ride/20170417/DSC01337.JPG)
-![](images/stunning_bike_ride/20170417/IMG_20170417_142204.jpg)
-![](images/stunning_bike_ride/20170417/DSC01368.JPG)
-![](images/stunning_bike_ride/20170417/DSC01364.JPG)
-![](images/stunning_bike_ride/20170417/DSC01362.JPG)
-![](images/stunning_bike_ride/20170417/DSC01370.JPG)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142330_o8klxz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142204_qcevet.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982245/alexv/stunning_bike_ride/20170417/DSC01347_ude6sa.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982245/alexv/stunning_bike_ride/20170417/DSC01337_qsm3l2.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142204_qcevet.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982245/alexv/stunning_bike_ride/20170417/DSC01368_emmk7k.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982245/alexv/stunning_bike_ride/20170417/DSC01364_ycumh1.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982245/alexv/stunning_bike_ride/20170417/DSC01362_apzzqd.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_600/v1495982246/alexv/stunning_bike_ride/20170417/DSC01370_fmdql8.jpg)
 
 ## Cuvant de inceput
 ##### Desi e la final

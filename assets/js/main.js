@@ -24,12 +24,20 @@ $(document).ready(function(){
     $("html, body").animate({scrollTop: position}, 400);
     $("nav ul li a").parent().removeClass("active");
     $(this).parent().addClass("active");
+    history.pushState({}, "", $(this).attr("href"));
     event.preventDefault();
   });
 
   sectionHeight();
 
   $('img').load(sectionHeight);
+
+  if (window.location.hash) {
+    var position = $(window.location.hash).offset().top - 100;
+    $("html, body").animate({scrollTop: position}, 400);
+    $("nav ul li a").parent().removeClass("active");
+    $(this).parent().addClass("active");
+  }
 });
 
 fixScale = function(doc) {

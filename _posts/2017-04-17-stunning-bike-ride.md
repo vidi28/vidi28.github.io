@@ -3,7 +3,7 @@ layout:   post
 title:    "Stunning Bike Ride"
 date:     2017-04-17
 category: ride
-image:    2017-04-17-stunning-bike-ride/DSC01370.jpg
+image:    http://res.cloudinary.com/du3vs7jho/image/upload/w_2000/v1495982246/alexv/stunning_bike_ride/20170417/DSC01370_fmdql8.jpg
 route:    ":checkered_flag: Somesul Rece :arrow_right: Maguri Racatau :arrow_right: Marisel :arrow_right: Ijar :arrow_right: Somesul Cald :arrow_right: Somesul Rece"
 ---
 <p class="intro"><span class="dropcap">U</span>na din primele ture serioase pe doua roti, de anul acesta, dar si una din cele mai solicitante de pana acum.</p>  _(disclaimer: nu sunt nici pe departe un biciclist performant)_
@@ -22,12 +22,12 @@ Dupa ce ciugulim ceva si ne luam manusile pe maini, pornim la vale. Coborarea o 
 
 O tura excelenta pentru a doua zi de Pasti, iar ca sa o recomand, mai jos sunt cateva poze pe care le-am tras pe traseu.
 
-![](/assets/img/2017-04-17-stunning-bike-ride/IMG_20170417_142330.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/IMG_20170417_142204.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01347.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01337.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/IMG_20170417_142204.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01368.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01364.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01362.jpg)
-![](/assets/img/2017-04-17-stunning-bike-ride/DSC01370.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142330_o8klxz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142204_qcevet.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982245/alexv/stunning_bike_ride/20170417/DSC01347_ude6sa.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982245/alexv/stunning_bike_ride/20170417/DSC01337_qsm3l2.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982247/alexv/stunning_bike_ride/20170417/IMG_20170417_142204_qcevet.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982245/alexv/stunning_bike_ride/20170417/DSC01368_emmk7k.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982245/alexv/stunning_bike_ride/20170417/DSC01364_ycumh1.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982245/alexv/stunning_bike_ride/20170417/DSC01362_apzzqd.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/v1495982246/alexv/stunning_bike_ride/20170417/DSC01370_fmdql8.jpg)

@@ -3,7 +3,7 @@ layout:   post
 title:    "Electric Castle of Rides"
 date:     2017-05-13
 category: ride
-image:    2017-05-13-electric-castle-of-rides/DSC01488.jpg
+image:    http://res.cloudinary.com/du3vs7jho/image/upload/v1495984177/alexv/negrileasa/20170513/DSC01488_0_85x_w3olbx.jpg
 route:    ":checkered_flag: Cluj :car: Intregalde :bike::umbrella: Poiana Narciselor :bike::umbrella: Intregalde"
 ---
 <p class="intro"><span class="dropcap">T</span>ura de la Negrileasa, spre Poiana Narciselor.
@@ -30,17 +30,18 @@ Cat despre Narcise, ce sa va spun ... nu le-am vazut niciodata pana acum. Pentru
 
 Pana la anul, va las traseul de pe [Strava](https://www.strava.com/activities/984523732) si niste poze din tura
 
-![](/assets/img/2017-05-13-electric-castle-of-rides/0IMG_20170513_074637.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01425.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01444.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01447.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01448.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01457.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01462.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01467.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01477.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01488.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01501.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01514.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01518.jpg)
-![](/assets/img/2017-05-13-electric-castle-of-rides/DSC01547.jpg)
+
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984188/alexv/negrileasa/20170513/0IMG_20170513_074637_fqwkdo.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984202/alexv/negrileasa/20170513/DSC01425_qt9gnl.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984205/alexv/negrileasa/20170513/DSC01444_0_85x_jlh9cn.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984210/alexv/negrileasa/20170513/DSC01447_i51jz6.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984220/alexv/negrileasa/20170513/DSC01448_0_85x_lcxoc2.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984233/alexv/negrileasa/20170513/DSC01457_0_85x_xc3l9g.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984216/alexv/negrileasa/20170513/DSC01462_uanjwg.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984215/alexv/negrileasa/20170513/DSC01467_0_85x_ptdewk.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984190/alexv/negrileasa/20170513/DSC01477_0_85x_ogrwwm.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984177/alexv/negrileasa/20170513/DSC01488_0_85x_w3olbx.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984203/alexv/negrileasa/20170513/DSC01501_peqldz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984214/alexv/negrileasa/20170513/DSC01514_vkx9yz.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984197/alexv/negrileasa/20170513/DSC01518_0_85x_kus18s.jpg)
+![](http://res.cloudinary.com/du3vs7jho/image/upload/w_1200/v1495984196/alexv/negrileasa/20170513/DSC01547_0_85x_c48gvx.jpg)

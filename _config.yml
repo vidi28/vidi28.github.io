@@ -1,9 +1,31 @@
-title: veni vidi
-description:
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-leap-day
-repository: vidi42/vidi42.github.io
+title: veni, vidi
+#description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://alexv.ro
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
 gems:
-  - jekyll-mentions
+  - jekyll-paginate
   - jemoji
+
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+# - title: Contact
+#   url: /contact
+
+social:
+  twitter: alex_vidrean
+  instagram: alex_vidrean
+  px500: alexvidrean
+  github: vidi42
+
+google_analytics: "UA-58263416-1"

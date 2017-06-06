@@ -31,7 +31,11 @@
 }
 
 .header {
-  background-image: url("http://res.cloudinary.com/du3vs7jho/image/upload/v1496778780/alexv/assets/cover_azncbg.jpg");
+  background-image: url("http://res.cloudinary.com/du3vs7jho/image/upload/w_2000/v1496778780/alexv/assets/cover_azncbg.jpg");
+
+  @media only screen and (max-width: 800px) {
+    background-image: url("http://res.cloudinary.com/du3vs7jho/image/upload/w_800/v1496778780/alexv/assets/cover_azncbg.jpg");
+  }
 }
 
 .post.route {

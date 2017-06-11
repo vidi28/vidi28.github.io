@@ -19,8 +19,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
-# - title: Contact
-#   url: /contact
+# - title: Biking
+#   url: /biking
 
 social:
   twitter: alex_vidrean
